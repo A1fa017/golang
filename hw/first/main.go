@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(mathmod.Fib(4))
+	fmt.Println(mathmod.Fib(6))
 }
