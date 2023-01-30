@@ -1,3 +1,3 @@
-module github.com/A1fa017/golang/mathmod
+module github.com/agadilkhan/golang/mathmod
 
 go 1.19
