@@ -6,26 +6,26 @@ type Student struct {
 	gpa  float32
 }
 
-func (s *Student) getname() string {
+func (s *Student) Getname() string {
 	return s.name
 }
 
-func (s *Student) setname(name string) {
+func (s *Student) Setname(name string) {
 	s.name = name
 }
 
-func (s *Student) getid() int {
+func (s *Student) Getid() int {
 	return s.id
 }
 
-func (s *Student) setid(id int) {
+func (s *Student) Setid(id int) {
 	s.id = id
 }
 
-func (s *Student) getgpa() float32 {
+func (s *Student) Getgpa() float32 {
 	return s.gpa
 }
 
-func (s *Student) setgpa(gpa float32) {
+func (s *Student) Setgpa(gpa float32) {
 	s.gpa = gpa
 }
