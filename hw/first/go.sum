@@ -1,4 +1,2 @@
-github.com/A1fa017/golang/mathmod v0.0.0-20230125120707-82eb517c16fc h1:TqODOklsWQFIDsddg2nudWNHaMXbREnqJlzbTds654c=
-github.com/A1fa017/golang/mathmod v0.0.0-20230125120707-82eb517c16fc/go.mod h1:FBxrEGtVK/1SrT0uGEK8GTRT1J5fjxc6KocJU0AXe4Y=
-github.com/A1fa017/golang/mathmod v0.0.0-20230125122149-0b02c70caeb7 h1:9eirfGns06DhsCd5CvSiIdyZJ/TmOr/Ouafsj8XWy0E=
-github.com/A1fa017/golang/mathmod v0.0.0-20230125122149-0b02c70caeb7/go.mod h1:FBxrEGtVK/1SrT0uGEK8GTRT1J5fjxc6KocJU0AXe4Y=
+github.com/agadilkhan/golang/mathmod v0.0.0-20230130085653-c5079faf516e h1:qodlu9OpY7PZ9JhheCphPKDUFMKYZbM6T16z2MbyGoM=
+github.com/agadilkhan/golang/mathmod v0.0.0-20230130085653-c5079faf516e/go.mod h1:zIVw66s1BYaBwGJQvc1ZEsTCKuVJZJSGh5z8crLh5mw=
